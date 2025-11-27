@@ -1,4 +1,4 @@
-# BMO-test
+# test
 
 This is a maven project that consists of all the dependencies required for Cucumber and Selenium. The dependencies are mentioned in the pom.xml file. There are two packages namely **cucumber_test** and **step_definition** under src/test/java. There are two folders namely **Feature** and **Drivers**
 
